@@ -1,0 +1,6 @@
+selenuim
+pandas
+bs4
+selenium.webdriver.common.keys
+smtplib
+jupyter lab
