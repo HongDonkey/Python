@@ -5,7 +5,7 @@ class GString:
     def set(self, msg):
         self.str = msg
     def print(self):
-        print(str)
+        print(self.str)
 
 g = GString()
 g.set("First Message")
