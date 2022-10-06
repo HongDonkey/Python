@@ -8,3 +8,6 @@ class MyCalc(object):
 a = MyCalc.my_add(5,7)
 print(a)
 
+
+
+
